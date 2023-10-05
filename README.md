@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/LiubovBoss/liubovboss/blob/main/assets/banner.png)
 
 About me
 
