@@ -13,4 +13,5 @@
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1637AA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F1F618)
 
-Follow Me
+### Follow Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=286D9F)](https://linkedin.com/in/lyubovbosaya)
