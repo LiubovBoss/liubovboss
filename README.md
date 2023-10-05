@@ -2,6 +2,15 @@
 
 ## I'm a QA Engineer with over 2 years of experience in web and mobile app testing. 
 
-Languages and Tools
+### Languages and Tools
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F54A32)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=for-the-badge&logo=GitLab&logoColor=EF6B0B)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=F69320)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=199616)
+![SourceTree](https://img.shields.io/badge/-SourceTree-000000?style=for-the-badge&logo=SourceTree&logoColor=2979F0)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=1765DA)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1637AA)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F1F618)
 
 Follow Me
