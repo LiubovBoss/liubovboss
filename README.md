@@ -4,6 +4,7 @@
 
 ### Testing Documentation
 - [Checklist](https://github.com/LiubovBoss/checklists)
+- [Test Plan](https://github.com/LiubovBoss/liubovboss/blob/main/documentation/Test_plan%20.pdf)
 
 ### Languages and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
