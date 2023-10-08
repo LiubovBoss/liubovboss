@@ -3,7 +3,8 @@
 ## I'm a QA Engineer with over 2 years of experience in web and mobile app testing. 
 
 ### Testing Documentation
-- [Checklist](https://github.com/LiubovBoss/checklists)
+- [Checklists](https://github.com/LiubovBoss/checklists)
+- [Test cases](https://github.com/LiubovBoss/Test_cases)
 - [Test Plan](https://github.com/LiubovBoss/liubovboss/blob/main/documentation/Test_plan%20.pdf)
 
 ### Languages and Tools
