@@ -8,6 +8,7 @@
 ### Test design techniques
 - [Equivalence Partitioning](https://github.com/LiubovBoss/liubovboss/blob/main/test%20design%20techniques/Equivalence%20Partitioning%26Boundary%20Value%20Analysis.pdf)
 - [Boundary Value Analysis](https://github.com/LiubovBoss/liubovboss/blob/main/test%20design%20techniques/Equivalence%20Partitioning%26Boundary%20Value%20Analysis.pdf)
+- [Decision Table Testing](https://github.com/LiubovBoss/liubovboss/blob/main/test%20design%20techniques/Decision%20Table%20Testing.pdf)
 
 ### Testing Documentation
 - [Bug reports](https://github.com/LiubovBoss/Bug_reports)
