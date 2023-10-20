@@ -26,8 +26,14 @@
 ![SourceTree](https://img.shields.io/badge/-SourceTree-000000?style=for-the-badge&logo=SourceTree&logoColor=2979F0)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=1765DA)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1637AA)
+![Confluence](https://img.shields.io/badge/-Confluence-000000?style=for-the-badge&logo=Confluence&logoColor=1637AA)
+![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=TestRail&logoColor=199616)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F1F618)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=F82DE3)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=1765DA)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=199616)
+![Apache JMeter](https://img.shields.io/badge/-JMeter-000000?style=for-the-badge&logo=ApacheJMeter&logoColor=F54A32)
+
 
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=286D9F)](https://linkedin.com/in/lyubovbosaya)
