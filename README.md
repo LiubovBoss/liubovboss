@@ -5,6 +5,10 @@
 ### Testing
 - [Testing by types of testing](https://github.com/LiubovBoss/liubovboss/blob/main/Types.pdf)
 
+### Test design techniques
+- [Equivalence Partitioning](https://github.com/LiubovBoss/liubovboss/blob/main/test%20design%20techniques/Equivalence%20Partitioning%26Boundary%20Value%20Analysis.pdf)
+- [Boundary Value Analysis](https://github.com/LiubovBoss/liubovboss/blob/main/test%20design%20techniques/Equivalence%20Partitioning%26Boundary%20Value%20Analysis.pdf)
+
 ### Testing Documentation
 - [Bug reports](https://github.com/LiubovBoss/Bug_reports)
 - [Checklists](https://github.com/LiubovBoss/checklists)
