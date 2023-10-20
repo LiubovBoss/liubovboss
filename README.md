@@ -17,6 +17,9 @@
 - [Test cases](https://github.com/LiubovBoss/Test_cases)
 - [Test Plan](https://github.com/LiubovBoss/liubovboss/blob/main/documentation/Test_plan%20.pdf)
 
+### API
+- [Swagger](https://github.com/LiubovBoss/liubovboss/commit/7ed65ea822844b1f697709fa1ea697abf35e474a)
+
 ### Languages and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F54A32)
