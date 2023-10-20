@@ -2,6 +2,9 @@
 
 ## I'm a QA Engineer with over 2 years of experience in web and mobile app testing. 
 
+### Testing
+- [Tupes of testing](https://github.com/LiubovBoss/liubovboss/blob/main/Types%20of%20testing.pdf)
+
 ### Testing Documentation
 - [Bug reports](https://github.com/LiubovBoss/Bug_reports)
 - [Checklists](https://github.com/LiubovBoss/checklists)
