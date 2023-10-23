@@ -1,6 +1,18 @@
 ![Header](https://github.com/LiubovBoss/liubovboss/blob/main/assets/banner.png)
 
-## I'm a QA Engineer with over 2 years of experience in web and mobile app testing. 
+--- 
+
+### :woman_technologist: About me 
+
+I'm a QA Engineer from Ukraine
+
+- I have over 2 years of experience in manual testing
+
+- pecializing in functional, regression, and UI/UX testing 
+
+- I am always open to learning and improving myself
+
+---
 
 ### Testing
 - [Testing by types of testing](https://github.com/LiubovBoss/liubovboss/blob/main/Types.pdf)
