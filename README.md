@@ -33,6 +33,10 @@ I'm a QA Engineer from Ukraine
 - [Swagger](https://github.com/LiubovBoss/liubovboss/commit/7ed65ea822844b1f697709fa1ea697abf35e474a)
 - [Postman](https://github.com/LiubovBoss/Postman)
 
+### MySQL
+- [CRUD](https://github.com/LiubovBoss/liubovboss/blob/main/MySQL/CRUD/CRUD.png)
+- [SELECT](https://github.com/LiubovBoss/liubovboss/blob/main/MySQL/SELECT/%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.png)
+
 ### Languages and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F54A32)
