@@ -35,7 +35,7 @@ I'm a QA Engineer from Ukraine
 
 ### MySQL
 - [CRUD](https://github.com/LiubovBoss/liubovboss/blob/main/MySQL/CRUD/CRUD.png)
-- [SELECT](https://github.com/LiubovBoss/liubovboss/blob/main/MySQL/SELECT/%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.png)
+- [SELECT](https://github.com/LiubovBoss/liubovboss/commit/d822d765d001afb3472fb1a2808a5324dc7237f1)
 
 ### Languages and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
