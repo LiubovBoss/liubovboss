@@ -6,9 +6,9 @@
 
 I'm a QA Engineer from Ukraine
 
-- I have over 2 years of experience in manual testing
+- I have over two years of experience in manual testing
 
-- pecializing in functional, regression, and UI/UX testing 
+- I specialize in functional, regression, and UI/UX testing 
 
 - I am always open to learning and improving myself
 
